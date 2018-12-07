@@ -829,7 +829,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Abdou ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`.help | # DND FOREVER :hearts:`,"http://twitch.tv/abdoufersaoui_dz")
+client.user.setGame(`.help | #Vapers.:`,"http://twitch.tv/abdoufersaoui_dz")
 client.user.setStatus("dnd")
 });
 
